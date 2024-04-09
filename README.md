@@ -21,4 +21,4 @@ Special thanks to Kaggle for providing high-quality educational content through 
 Happy learning!
 
 --- 
-*Note: This README.md file serves as a guide to navigate through the Kaggle Learn Exercises Repository. It provides an overview of the repository's structure, contents, and usage instructions.*
+
